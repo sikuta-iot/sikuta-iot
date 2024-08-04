@@ -1,0 +1,5 @@
+- 👋 Hello, I’m sikuta, an Electrical engineering student of Dedan Kimathi university,Bachelor of Science.
+- 👀 I find it more than educative and more passionating to be follow the path of internet of things, as a almost prerequisite in technological development and electronics innovation and implementations.I am still enjoying the liberty to improve in my experience on IoTs by taking part in educative conferences,sessions and summits, alongside proactive participation in impacting projects utilizing Arduino and MATLAB simulations.
+- 🌱 I’m currently learning Internet of Things, offered by Safaricom alongside intermediate level Arduino implementations in IoT.
+- 💞️ I would greatly congratulate a self-milestone in data science and development, innovation, research and implementation of technological developments.
+- 📫 You can reach me on my personal number +254717406091, or via email smarthans6gmail.com. Similarly, my LinkedIn username is Sikuta R.
